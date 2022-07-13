@@ -3,3 +3,6 @@ This code will work analogous to Google map and find out the shortest route betw
 
 <img src="https://github.com/ananya-agarwal/Mindis-bw-2-cities_AI/blob/main/testing.png" width=384>
 <br>
+
+<img src="https://github.com/ananya-agarwal/Mindis-bw-2-cities_AI/blob/main/Ques.png" width=384>
+<br>
